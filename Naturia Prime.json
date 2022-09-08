@@ -15,7 +15,7 @@
 	},
 	"monster": [
 		{
-			"name": "Barkwoolf",
+			"name": "Barkwolf",
 			"source": "NaturiaPrime",
 			"basicRules": true,
 			"size": [
